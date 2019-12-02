@@ -1,2 +1,3 @@
 # hello-world
-Launching git adventure
+Launching Git Adventure
+The infinite possibilities in technology fascinate me. Abstracts, imagination to reality! 
