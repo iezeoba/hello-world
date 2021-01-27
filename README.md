@@ -1,3 +1,2 @@
 # hello-world
-Launching Git Adventure
-The infinite possibilities in technology fascinate me. Abstracts, imagination to reality! 
+The infinite possibilities in technology fascinate me. Imagination to reality! 
